@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi there! 👋 I'm Yash Mittal 
 
-<!--
-**Yash4152/Yash4152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I’m a passionate Full Stack Web Developer who loves to explore and contribute to open-source projects, build cool stuff, and solve problems using code.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Together App**
+- 🌱 I’m currently learning **React.js , Next.js & Node.js**
+- 💬 Ask me about **Developing Full Stack Projects**
+- 📫 How to reach me: **yashmittals5277@gmail.com/yashmittal77**
+- ⚡ Fun fact: **Being Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills & Technologies
+
+Here are some of the tools, technologies, and frameworks I work with:
+
+- **Languages:** Java , JavaScript
+- **Frameworks & Libraries:** React.js , Node.js & Next.js 
+- **Databases:**  MySQL, PostgreSQL, MongoDB
+- **DevOps & Tools:**  Docker, Kubernetes
+- **Other Skills:**  Git, GitHub , ORMs
+
+---
+
+## 🛠 Projects
+
+### Together App
+**Description**: Full end to end Application Developed a pair programming application enabling developers to collaborate
+via Audio, Video, and Screen Sharing.
+• Latest Technologies are used like Next.js , NextAuth for Authentication,Postgresql and Drizzle ORM for
+Database and GetStream.io API for Backend Communication.
+
+- Tech Stack: Next.js , TypeScript , NextAuth , PostgreSQL , Drizzle ORM , getStream.io 
+- https://together-app1.vercel.app/
+
+---
+
+## 📈 GitHub Stats
+
+Here are some stats about my work on GitHub:
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash4152&show_icons=true&hide_border=true)
+
+---
+
+## 📫 Get in Touch!
+
+- LinkedIn: [yashmittal77](#)
+- Email: [Your email address](mailto:yashmittals5277@gmail.com)
+
+---
+
+### Thanks for visiting my profile! 🤗
