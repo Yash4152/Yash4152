@@ -39,14 +39,14 @@ Database and GetStream.io API for Backend Communication.
 
 Here are some stats about my work on GitHub:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash4152&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash4152&show_icons=true&hide_border=true)
 
 ---
 
 ## 📫 Get in Touch!
 
-- LinkedIn: [yashmittal77](#)
-- Email: [Your email address](mailto:yashmittals5277@gmail.com)
+- LinkedIn: [yashmittal77](https://www.linkedin.com/in/yashmittal77/)
+- Email: yashmittals5277@gmail.com(mailto:yashmittals5277@gmail.com)
 
 ---
 
