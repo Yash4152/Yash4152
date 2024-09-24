@@ -46,7 +46,7 @@ Here are some stats about my work on GitHub:
 ## 📫 Get in Touch!
 
 - LinkedIn: [yashmittal77](https://www.linkedin.com/in/yashmittal77/)
-- Email: yashmittals5277@gmail.com(mailto:yashmittals5277@gmail.com)
+- Email: yashmittals5277@gmail.com
 
 ---
 
