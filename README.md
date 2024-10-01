@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I’m a passionate Full Stack Web Developer who loves to explore and contribute to open-source projects, build cool stuff, and solve problems using code.
 
-!<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+<p><img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"></p>
 - 🔭 I’m currently working on **Together App**
 - 🌱 I’m currently learning **React.js , Next.js & Node.js**
 - 💬 Ask me about **Developing Full Stack Projects**
