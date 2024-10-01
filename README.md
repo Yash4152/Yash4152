@@ -39,7 +39,7 @@ Database and GetStream.io API for Backend Communication.
 ## 📈 GitHub Stats
 
 Here are some stats about my work on GitHub:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-rajarora&show_icons=true&locale=en&layout=compact" alt="yash-rajarora" /></p>
+!<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-rajarora&show_icons=true&locale=en&layout=compact" alt="yash-rajarora" />
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash4152&show_icons=true&hide_border=true)
 
 ---
